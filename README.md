@@ -1,4 +1,4 @@
-# planet_position_prediction_with_ML
+# planet position prediction with ML
 This project is for predicting future position of planets using ml libraries with four planets. To add more planets if you have GPU requirements, it will decrease time complexity.
 
 library installed:<br>
