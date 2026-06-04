@@ -1,5 +1,5 @@
-# planet position prediction with ML
-This project is for predicting future position of planets using ml libraries with four planets. To add more planets if you have GPU requirements, it will decrease time complexity.
+# planet position prediction with LSTM
+This project utilizes an LSTM model to predict the future positions of four planets. While the current scope is limited to four planets, additional ones can be integrated; utilizing a GPU will significantly reduce training and processing times.
 
 library installed:<br>
 numpy (tensorflow compatible)=1.24.3<br>
